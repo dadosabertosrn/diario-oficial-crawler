@@ -1,6 +1,6 @@
 # Diário Oficial Crawler
 
-Um crawler escrito em Python para baixar os documentos `.pdf` correspondentes ao Diário Oficial do estado do Rio Grande de Norte.
+Um crawler para baixar documentos `.pdf` correspondentes ao Diário Oficial do Estado do Rio Grande do Norte.
 
 ## Instruções
 
